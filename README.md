@@ -1,4 +1,4 @@
-<img src=""><br>
+<img src="java7.gif"><br>
 
 <B>PLANTEAMIENTOS DE LOS EJERCICIOS DE PROGRAMACION.</B> <BR><BR>
 1.-PROGRAMA 1.<br>
